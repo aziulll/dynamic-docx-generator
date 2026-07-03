@@ -1,0 +1,8 @@
+.git
+.gitignore
+.env
+storage/templates/*
+!storage/templates/.gitkeep
+storage/generated/*
+!storage/generated/.gitkeep
+vendor
